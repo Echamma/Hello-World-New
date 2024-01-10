@@ -10,6 +10,6 @@ $name = "Myname";
     <title>Hello BROZAR ISabella</title>
 </head>
 <body>
-    <h1>Heloo Bestie<?php echo $name?></h1>
+    <h1>Heloo<?php echo $name?></h1>
 </body>
 </html>
